@@ -10,7 +10,8 @@
 - **Chapter # 5: ERP Package Selection**
 - **Chapter # 6: ERP Project Team and Project Organisation Structure**
 
-- **Chapter # 7: ERP Project Management**
-- **Chapter # 9: Business Process Reengineering**
-- **Chapter # 10: Business Process Modelling and Business Modelling**
-- **Chapter # 11: Gaps Identification and Strategies to Bridge the Gap**
+- **Chapter # 7: ERP Project Management** [Video](https://youtu.be/Pxdx2XkJqwA?si=tasqTyN5WVicoKFH)
+- **Chapter # 9: Business Process Reengineering** [Video](https://youtu.be/fGhf7wNabtw?si=adAy01Soiu5Q3A5K)
+- **Chapter # 10: Business Process Modelling and Business Modelling** [Video](https://youtu.be/bjsJ5CW_Ldc?si=bUcL0s5ys5HOZTVY)
+- **Chapter # 11: Gaps Identification and Strategies to Bridge the Gap** [Video](https://youtu.be/8lGK-e74eGM?si=UFvLho3dE6We493g)
+
